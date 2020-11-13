@@ -3,7 +3,6 @@
 body{
   background-color:olive;
   background-color: transparent;
-
   background:url(images/lion-01.jpg)no-repeat top center;
   background-size: cover;
 }
@@ -25,10 +24,9 @@ h2 {
   }
 
 p {
+
   display: flex;
   justify-content: left;
-  padding: 96em;
-  border-radius: 9px;
   height: 300px;
   width: 500px;
 
