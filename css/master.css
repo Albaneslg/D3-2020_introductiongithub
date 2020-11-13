@@ -16,7 +16,7 @@ h1 {
 }
 
 h2 {
-  text-shadow:black;
+  
   writing-mode:vertical-lr;
   display: flex;
   justify-content: center;
